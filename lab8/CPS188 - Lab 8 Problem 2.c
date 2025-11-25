@@ -2,7 +2,6 @@
  * Institute: Toronto Metropolitan University
  * Course: CPS188-052
  * Name: Isaac Zheng
- * Student Number: 501263130
  * Professor: Dr. Denis Hamelin
  * TA: Austin Vuong
  * Date: April 2, 2024
@@ -103,3 +102,4 @@ main(void)
 	
 	return (0);
 }
+
